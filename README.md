@@ -1,2 +1,2 @@
-# honllms
-hands on llms
+# hands on llms
+Explore and learn LLMs
